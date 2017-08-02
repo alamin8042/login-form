@@ -1,0 +1,79 @@
+.bg-img{
+	background: url(../images/desk.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+	font-family: 'Arial', cursive;
+
+}
+.box{
+	width: 31%;
+	margin: 0 auto;
+	display: block;
+}
+
+.form {}
+.form h1{
+	text-transform: uppercase;
+	font-weight: 900;
+	margin: 0 0 30px;
+
+}
+
+.from{
+	background: skyblue;
+	padding : 40px 25px;
+	text-align: center;
+}
+
+.btn-custom{
+	display: block;
+	/* padding : 5px 30px; */
+	font-size: 20px;
+	width: 300px;
+	background: #216941;
+	border : 0;
+	color: #fff;
+	text-transform: uppercase;
+	box-shadow: 4px 4px 0px #184e30;
+	padding-bottom: 20px;
+	height: 50px;
+	line-height: 40px;
+	margin: 0 auto;
+}
+
+
+.form-group {
+    margin-bottom: 15px;
+    padding: 0 15px;
+}
+
+.overlay{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 90%;
+	height: 90%
+	background :rgba (0,0,0,0.8);
+	transform: translate(-50%, -50%);
+}
+.shadow{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #e8e1e1;
+    min-height: 450px;
+    border-radius: 4px;
+}
+
+.shadow h1{
+    padding-top: 20px;
+    color: #2f2fa2;
+    font-weight: 900;
+}
+
+
+
+
+
+
